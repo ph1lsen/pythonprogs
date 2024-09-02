@@ -1,20 +1,21 @@
 Here I'll list every Tool, Script and Program I'll create while learning Python.
 
-Currently learning and doing Python with:
-https://www.codingame.com/home
-https://programming-24.mooc.fi/
-https://www.practicepython.org/
+Currently learning and doing Python with:<br>
+https://www.codingame.com/home<br>
+https://programming-24.mooc.fi/<br>
+https://www.practicepython.org/<br>
 
-Listed projects:
+<b>Listed projects:</b>
 
-From Practicepython:
-User Input (Age Calculation, calculate the year, a person turns 100)
-Odd-or-Even (Is a Number odd, even, multiple of 4)
+<b>From Practicepython:</b> <br>
+User Input (Age Calculation, calculate the year, a person turns 100)<br>
+Odd-or-Even (Is a Number odd, even, multiple of 4)<br><br>
 
-From FreeCodeCamp:
-Convert to Snake-Case (Convert given text Inputs to Snake Pascal)
-Square Root Bisecton (Calculate the Square Root of a Number)
-Expenses Calculation (Calcuating expenses. Use of Arrays)
+<b>From FreeCodeCamp:</b><br>
+Convert to Snake-Case (Convert given text Inputs to Snake Pascal)<br>
+Square Root Bisecton (Calculate the Square Root of a Number)<br>
+Expenses Calculation (Calcuating expenses. Use of Arrays)<br>
+<br>
 
-Other Tools:
+<b>Other Tools:</b><br>
 Created a Python Script to Extract all URLs from a Feed URL (for SEO)
