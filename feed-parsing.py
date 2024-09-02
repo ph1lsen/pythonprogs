@@ -2,7 +2,7 @@ import feedparser
 import os
 
 # Deine RSS-Feed URL
-rss_feed_url = 'https://kretschmerundschweiger.de/category/private-krankenversicherung/feed/'
+rss_feed_url = 'ENTER URL'
 
 # RSS-Feed parsen
 feed = feedparser.parse(rss_feed_url)
